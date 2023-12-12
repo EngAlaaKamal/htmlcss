@@ -1,0 +1,19 @@
+.main{
+    margin: 25px 25px;
+    width:350px;
+    height:100px;
+  background-color:black;
+  }
+  .one{
+    color:white;
+   font-size:24px;
+    margin-left:15px;
+    margin-bottom:0px;
+    padding-top:10px;
+  }
+  .two{
+    color: rgb(179, 172, 172);
+    font-size:16px;
+    margin-left:15px;
+     
+  }

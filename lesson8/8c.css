@@ -1,0 +1,25 @@
+
+ div{
+    width: 400px;
+ }
+
+.search {
+    width: 100%;
+   box-shadow: 0px 0px 8px rgb(0 0 0 /0.2);
+    border: none;
+    padding: 5px;
+    height: 20px;
+    color: #9DBFAF;
+    border-radius:30px ;
+    -webkit-border-radius:30px ;
+    -moz-border-radius:30px ;
+    -ms-border-radius:30px ;
+    -o-border-radius:30px ;
+}
+img{
+    display: block;/**/
+    margin: auto;/**/
+}
+
+ 
+ 
