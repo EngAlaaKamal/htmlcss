@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+   
+}
+.a{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(212, 157, 157);
+    height: 50px;
+    width:100px;
+    align-items: center;
+    vertical-align: middle;
+}
+span{
+   background-color: black;
+   color: white;
+}
+.b{
+     
+    background-color: aqua;
+    height: 50px;
+    width:200px;
+}
